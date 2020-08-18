@@ -34,3 +34,11 @@ Learning Vanilla-Redux and React-Redux
 ```
 import { createStore } from "redux";
 ```
+
+## Redux Toolkit
+
+-   리덕스의 반복 사용 되는 코드의 양을 효율적으로 줄이기 위한 툴
+
+```
+yarn add @reduxjs/toolkit
+```
